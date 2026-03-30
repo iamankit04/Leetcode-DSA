@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Dynamic Programming
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 <!---LeetCode Topics End-->
