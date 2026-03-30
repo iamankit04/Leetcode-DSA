@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 <!---LeetCode Topics End-->
