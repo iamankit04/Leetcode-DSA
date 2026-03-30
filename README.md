@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3146-permutation-difference-between-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3146-permutation-difference-between-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
