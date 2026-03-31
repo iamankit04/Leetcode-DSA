@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/iamankit04/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
