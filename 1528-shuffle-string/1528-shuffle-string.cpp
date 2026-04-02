@@ -4,7 +4,7 @@ public:
     string restoreString(string s, vector<int>& indices) {
        int n = indices.size(); 
 
-       priority_queue< p , vector<p> , greater<p>> pq ; 
+       priority_queue< p > pq ; 
 
        for(int i = 0 ; i  < n ; i++){
           pq.push({indices[i], s[i]});
@@ -17,7 +17,9 @@ public:
           pq.pop(); 
 
           s1 += curr.second ; 
-       } 
+       }
+
+       reverse(begin(s1) , end(s1));  
 
        return s1 ;     
     }
