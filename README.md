@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iamankit04/Leetcode-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1528-shuffle-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/iamankit04/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/iamankit04/Leetcode-DSA/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/iamankit04/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/iamankit04/Leetcode-DSA/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamankit04/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
