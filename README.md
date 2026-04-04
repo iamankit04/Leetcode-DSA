@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/iamankit04/Leetcode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iamankit04/Leetcode-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
