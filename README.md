@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2733-neither-minimum-nor-maximum](https://github.com/iamankit04/Leetcode-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2906-construct-product-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [2733-neither-minimum-nor-maximum](https://github.com/iamankit04/Leetcode-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
