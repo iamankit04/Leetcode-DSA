@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1046-last-stone-weight](https://github.com/iamankit04/Leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -204,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0386-lexicographical-numbers/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
