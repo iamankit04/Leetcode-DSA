@@ -1,22 +1,28 @@
 class Solution {
 public:
+    vector<int> res ; 
+    void solve(int curr , int n){
+        if(curr > n) return ; 
+
+        res.push_back(curr) ; 
+
+        for(int app = 0 ; app <= 9 ; app++){
+            int newcurr = (curr * 10) + app ; 
+
+            if(newcurr > n) return ; 
+
+            solve(newcurr , n) ; 
+        }
+    }
     vector<int> lexicalOrder(int n) {
 
-        // BRUTEFORCE
+        // RECURSION 
 
-        vector<string> res ; 
-
-        for(int i = 1;  i <= n ; i++){
-            res.push_back(to_string(i));
+        for(int start = 1 ; start <= 9 ; start++){
+            solve(start , n); 
         }
 
-        sort(begin(res) , end(res)); 
-
-        vector<int> ans ; 
-
-        for(int i = 0 ; i < n ; i++){
-            ans.push_back(stoi(res[i]));
-        }
-        return ans ; 
+        return res ; 
+        
     }
 };
