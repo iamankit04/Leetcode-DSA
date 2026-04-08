@@ -10,11 +10,11 @@ public:
             int k = q[2] ; 
             int v = q[3] ; 
 
-            while(l <= r){
-                nums[l] = (1LL * nums[l] * v) % M;
-                l += k ;  
+            for(int idx = l ; idx <= r ; idx += k){
+                nums[idx] = (1LL * nums[idx] * v) % M;
+         
             }
-        }
+    }
 
         int ans = 0 ; 
 
