@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/iamankit04/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/iamankit04/Leetcode-DSA/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1046-last-stone-weight](https://github.com/iamankit04/Leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/iamankit04/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
