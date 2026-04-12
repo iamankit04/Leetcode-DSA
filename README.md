@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/iamankit04/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0056-merge-intervals](https://github.com/iamankit04/Leetcode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/iamankit04/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/iamankit04/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
