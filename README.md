@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
+| [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/iamankit04/Leetcode-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/iamankit04/Leetcode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/iamankit04/Leetcode-DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
