@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/iamankit04/Leetcode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/iamankit04/Leetcode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/iamankit04/Leetcode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamankit04/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/iamankit04/Leetcode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/iamankit04/Leetcode-DSA/tree/main/1834-single-threaded-cpu/) | Medium |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1046-last-stone-weight](https://github.com/iamankit04/Leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/iamankit04/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -262,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 <!---LeetCode Topics End-->
