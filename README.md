@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -206,12 +207,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0386-lexicographical-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0386-lexicographical-numbers/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
