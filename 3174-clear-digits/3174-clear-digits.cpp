@@ -1,0 +1,28 @@
+class Solution {
+public:
+    string clearDigits(string s) {
+
+        stack<char>st ; 
+
+        for(auto &it : s){
+
+            if(!st.empty() && isdigit(it)){
+                 st.pop(); 
+            }else{
+                st.push(it);
+            }
+        }
+
+        string ans = "" ; 
+
+        while(!st.empty()){
+            ans += st.top(); 
+            st.pop();
+        }
+
+        reverse(begin(ans) , end(ans)); 
+
+        return ans ;  
+        
+    }
+};
