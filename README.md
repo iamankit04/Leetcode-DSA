@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
+| [3174-clear-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Simulation
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3174-clear-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3174-clear-digits/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iamankit04/Leetcode-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [3174-clear-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3174-clear-digits/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
