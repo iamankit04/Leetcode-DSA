@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0386-lexicographical-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0841-keys-and-rooms](https://github.com/iamankit04/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/iamankit04/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/iamankit04/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
