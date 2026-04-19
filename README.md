@@ -294,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
