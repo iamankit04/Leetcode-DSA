@@ -39,7 +39,7 @@ public:
             adj[v].push_back(u); 
         }
 
-        vector<bool> vis(n-1 , false) ; 
+        vector<bool> vis(n , false) ; 
 
         dfs(adj ,0 ,  seats , vis);
 
