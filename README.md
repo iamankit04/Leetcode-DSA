@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/iamankit04/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/iamankit04/Leetcode-DSA/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/iamankit04/Leetcode-DSA/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
