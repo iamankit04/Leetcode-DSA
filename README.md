@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/iamankit04/Leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
+| [1266-minimum-time-visiting-all-points](https://github.com/iamankit04/Leetcode-DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/iamankit04/Leetcode-DSA/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/iamankit04/Leetcode-DSA/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1266-minimum-time-visiting-all-points](https://github.com/iamankit04/Leetcode-DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iamankit04/Leetcode-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/iamankit04/Leetcode-DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 <!---LeetCode Topics End-->
