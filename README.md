@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/iamankit04/Leetcode-DSA/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamankit04/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1844-replace-all-digits-with-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iamankit04/Leetcode-DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
