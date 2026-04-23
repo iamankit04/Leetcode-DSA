@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/iamankit04/Leetcode-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/iamankit04/Leetcode-DSA/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2906-construct-product-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iamankit04/Leetcode-DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/iamankit04/Leetcode-DSA/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
