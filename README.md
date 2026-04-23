@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iamankit04/Leetcode-DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamankit04/Leetcode-DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/iamankit04/Leetcode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamankit04/Leetcode-DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3174-clear-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3174-clear-digits/) | Easy |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamankit04/Leetcode-DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2906-construct-product-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
