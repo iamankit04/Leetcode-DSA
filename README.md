@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/iamankit04/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/iamankit04/Leetcode-DSA/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1816-truncate-sentence](https://github.com/iamankit04/Leetcode-DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/iamankit04/Leetcode-DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/iamankit04/Leetcode-DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/iamankit04/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/iamankit04/Leetcode-DSA/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1816-truncate-sentence](https://github.com/iamankit04/Leetcode-DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamankit04/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
