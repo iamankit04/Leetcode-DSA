@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/iamankit04/Leetcode-DSA/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/iamankit04/Leetcode-DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/iamankit04/Leetcode-DSA/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/iamankit04/Leetcode-DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,10 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/iamankit04/Leetcode-DSA/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/iamankit04/Leetcode-DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/iamankit04/Leetcode-DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
