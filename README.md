@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/iamankit04/Leetcode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamankit04/Leetcode-DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2906-construct-product-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
 | [1834-single-threaded-cpu](https://github.com/iamankit04/Leetcode-DSA/tree/main/1834-single-threaded-cpu/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/iamankit04/Leetcode-DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iamankit04/Leetcode-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
