@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/iamankit04/Leetcode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/iamankit04/Leetcode-DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/iamankit04/Leetcode-DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamankit04/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/iamankit04/Leetcode-DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iamankit04/Leetcode-DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
