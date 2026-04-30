@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/iamankit04/Leetcode-DSA/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1528-shuffle-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/1528-shuffle-string/) | Easy |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0688-knight-probability-in-chessboard](https://github.com/iamankit04/Leetcode-DSA/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Backtracking
