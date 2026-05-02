@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0396-rotate-function](https://github.com/iamankit04/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/iamankit04/Leetcode-DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iamankit04/Leetcode-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/iamankit04/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0647-palindromic-substrings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/iamankit04/Leetcode-DSA/tree/main/0688-knight-probability-in-chessboard/) | Medium |
+| [0788-rotated-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
