@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamankit04/Leetcode-DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/iamankit04/Leetcode-DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/iamankit04/Leetcode-DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/iamankit04/Leetcode-DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/iamankit04/Leetcode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/iamankit04/Leetcode-DSA/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/iamankit04/Leetcode-DSA/tree/main/2864-maximum-odd-binary-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
