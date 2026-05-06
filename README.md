@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/iamankit04/Leetcode-DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/iamankit04/Leetcode-DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/iamankit04/Leetcode-DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamankit04/Leetcode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1861-rotating-the-box](https://github.com/iamankit04/Leetcode-DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/iamankit04/Leetcode-DSA/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/iamankit04/Leetcode-DSA/tree/main/1861-rotating-the-box/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/iamankit04/Leetcode-DSA/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
