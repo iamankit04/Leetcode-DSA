@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/iamankit04/Leetcode-DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iamankit04/Leetcode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3174-clear-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/iamankit04/Leetcode-DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
