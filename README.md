@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/iamankit04/Leetcode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamankit04/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iamankit04/Leetcode-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/iamankit04/Leetcode-DSA/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamankit04/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1844-replace-all-digits-with-characters/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iamankit04/Leetcode-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/iamankit04/Leetcode-DSA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/2418-sort-the-people/) | Easy |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iamankit04/Leetcode-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
