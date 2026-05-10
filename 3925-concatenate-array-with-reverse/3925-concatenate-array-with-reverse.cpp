@@ -4,11 +4,9 @@ public:
 
         vector<int>res(nums.begin() , nums.end());
 
-        int n = nums.size(); 
+        reverse(begin(nums) , end(nums));
 
-        for(int i = n - 1;  i >= 0 ; i--){
-            res.push_back(nums[i]);
-        }
+        res.insert( res.end() , nums.begin() , nums.end());
 
         return res; 
         
