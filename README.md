@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/iamankit04/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/iamankit04/Leetcode-DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/iamankit04/Leetcode-DSA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/iamankit04/Leetcode-DSA/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/iamankit04/Leetcode-DSA/tree/main/1816-truncate-sentence/) | Easy |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/iamankit04/Leetcode-DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iamankit04/Leetcode-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
