@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/iamankit04/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
+| [0459-repeated-substring-pattern](https://github.com/iamankit04/Leetcode-DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0647-palindromic-substrings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/iamankit04/Leetcode-DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/0796-rotate-string/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Number Theory
