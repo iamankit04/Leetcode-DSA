@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/iamankit04/Leetcode-DSA/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3174-clear-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/3248-snake-in-matrix/) | Easy |
