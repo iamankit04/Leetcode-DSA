@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3248-snake-in-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/3248-snake-in-matrix/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/iamankit04/Leetcode-DSA/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamankit04/Leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iamankit04/Leetcode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/iamankit04/Leetcode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
