@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/iamankit04/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0459-repeated-substring-pattern](https://github.com/iamankit04/Leetcode-DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0583-delete-operation-for-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/0796-rotate-string/) | Easy |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/iamankit04/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/iamankit04/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/iamankit04/Leetcode-DSA/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0788-rotated-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
