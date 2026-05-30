@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/iamankit04/Leetcode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/iamankit04/Leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/iamankit04/Leetcode-DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/iamankit04/Leetcode-DSA/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2906-construct-product-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2906-construct-product-matrix/) | Medium |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Greedy
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
