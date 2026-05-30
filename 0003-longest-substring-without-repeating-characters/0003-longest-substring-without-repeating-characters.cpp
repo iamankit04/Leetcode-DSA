@@ -2,23 +2,30 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
 
-        // using freq array 
+        // sliding window approach 
 
-        int n = s.length();
+        int n = s.length(); 
 
-        vector<int> freq(256 , -1);
-        int maxl = 0 , start = -1 ; 
+        vector<int> freq(256 , 0); 
 
-        for(int i = 0 ; i  < n; i++){
+        int i = 0 , j = 0 , ans  = 0 ; 
 
-            if(freq[s[i]] > start){
-                start = freq[s[i]];
+        while(j < n){
+
+            freq[s[j]]++; 
+
+            while(freq[s[j]] > 1){
+
+                freq[s[i]]--; 
+
+                i++;
             }
 
-            freq[s[i]] = i ; 
-
-            maxl = max(maxl , i - start) ; 
+            ans = max(ans , j - i + 1); 
+            j++;
         }
-        return maxl; 
+
+        return ans; 
+        
     }
 };
