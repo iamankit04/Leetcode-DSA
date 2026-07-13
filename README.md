@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/1291-sequential-digits/) | Medium |
 | [1534-count-good-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/1534-count-good-triplets/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
