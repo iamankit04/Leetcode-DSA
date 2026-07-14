@@ -1,23 +1,21 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-
-        // sliding window approach 
-
+        
         int n = s.length(); 
+
+        if(s == "") return 0 ;
 
         vector<int> freq(256 , 0); 
 
-        int i = 0 , j = 0 , ans  = 0 ; 
+        int i =  0 , j =  0 , ans = INT_MIN ; 
 
         while(j < n){
 
-            freq[s[j]]++; 
+            freq[s[j]]++;
 
             while(freq[s[j]] > 1){
-
-                freq[s[i]]--; 
-
+                freq[s[i]]--;
                 i++;
             }
 
@@ -25,7 +23,6 @@ public:
             j++;
         }
 
-        return ans; 
-        
+        return ans ; 
     }
 };
