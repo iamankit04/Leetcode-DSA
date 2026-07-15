@@ -4,14 +4,17 @@ public:
 
         int se = 0 , so = 0 ; 
 
-        for(int i = 1 ; i <= n*2; i++){
-            if(i % 2 == 0){
-                se += i ; 
-            }else{
-                so += i ; 
-            }
+        int k = n ; 
+        int j = 1 ; 
+        while(k--){
+            so += j ; 
+            j += 2 ; 
         }
-   
-        return __gcd(so, se) ; 
+        int i = 2 ; 
+        while(n--){
+            se += i ; 
+            i += 2 ;
+        }
+        return __gcd(se , so); 
     }
 };
