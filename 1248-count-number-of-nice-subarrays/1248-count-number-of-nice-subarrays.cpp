@@ -11,31 +11,21 @@ public:
         }
 
         
-        int i = 0 , j = 0 , wsum = 0 , cnt0 = 0 , res = 0  ; 
+        unordered_map<int , int> mp; 
 
-        while(j < n){
+        int csum = 0 , cnt = 0 ; 
+        mp[0] = 1 ; 
 
-            wsum += nums[j];
+        for(int i = 0 ; i < n ; i++){
 
-            while(i < j && (nums[i] == 0 || wsum > k)){
+            csum += nums[i]; 
+            int rsum = csum - k; 
 
-                if(nums[i] == 0){
-                    cnt0++;
-                }else{
-                    cnt0 = 0 ; 
-                }
+            if(mp.count(rsum)) cnt += mp[rsum];
 
-                wsum -= nums[i];
-                i++;
-            }
-            
-            if(wsum == k)
-            res += 1 + cnt0; 
-
-
-            j++;
+            mp[csum]++;
         }
-        return res ; 
+        return cnt ; 
         
     }
 };
