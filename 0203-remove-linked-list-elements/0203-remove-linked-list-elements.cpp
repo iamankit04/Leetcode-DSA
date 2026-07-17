@@ -12,32 +12,31 @@ class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
 
-        if(head == NULL) return NULL; 
+        vector<int> arr; 
 
-        ListNode* prev = NULL; 
+        ListNode* temp = head ; 
 
-        ListNode* curr = head; 
-
-        while(curr != NULL){
+        while(temp != NULL){
             
-            if(curr -> val == val){
-                if(prev != NULL){
-                    prev -> next = curr -> next ; 
-                    ListNode* temp = curr ;
-                    curr = curr -> next ; 
-                    delete temp;
-                }else{
-                    head = curr->next;
-
-                    ListNode* temp = curr;
-                    curr = curr->next;
-                    delete temp;
-                }
-            }else{
-                prev = curr ; 
-                curr = curr -> next ; 
+            if(temp -> val != val){
+                arr.push_back(temp -> val);
             }
+
+            temp = temp -> next ; 
         }
-        return head ; 
+
+        int n = arr.size();
+
+        if(arr.empty()) return NULL;
+
+        ListNode* ans = new ListNode(arr[0]); 
+        ListNode* res = ans;
+
+        for(int i = 1 ; i < n ; i++){
+
+            ans -> next = new ListNode(arr[i]);
+            ans = ans -> next ; 
+        }
+        return res; 
     }
 };
