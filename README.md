@@ -567,12 +567,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/iamankit04/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/iamankit04/Leetcode-DSA/tree/main/0044-wildcard-matching/) | Hard |
+| [0203-remove-linked-list-elements](https://github.com/iamankit04/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 ## Counting Sort
 |  |
 | ------- |
