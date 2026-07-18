@@ -2,37 +2,42 @@ class Solution {
 public:
     vector<string> commonChars(vector<string>& words) {
 
-        int n = words.size(); 
+        int n = words.size();
 
-        vector<string> ans ; 
-        vector<int> freq(26 , 0) ; 
+        unordered_map<char , int > mp ; 
 
         for(auto &it : words[0]){
-            freq[it-'a']++;
+            mp[it]++;
         }
 
-        for(int i = 1 ; i  < n ; i++){
-            vector<int>temp(26 ,0); 
+        for(int i = 1 ; i < n ; i++){
+             unordered_map<char , int> temp ;
 
-            for(auto &it : words[i]){
-                temp[it - 'a']++;
-            }
+             for(auto &it : words[i]){
+                 
+                 if(mp.count(it)){
+                     mp[it]--; 
 
-            for(int j = 0 ; j < 26 ; j++){
-                freq[j] = min(temp[j] , freq[j]);
-            }
+                     if(mp[it] == 0){
+                        mp.erase(it);
+                     }
+                     temp[it]++; 
+                 }
+             }
+
+             mp = temp ; 
+
         }
 
-        for(int i = 0 ;  i < 26 ; i++){
+        vector<string> ans ; 
 
-            int c = freq[i]; 
-
-            while(c--){
-                ans.push_back(string(1 , 'a' + i ));
+        for(auto &it : mp){
+            string k = ""; 
+            k += it.first ; 
+            while(it.second--){
+                ans.push_back(k);
             }
         }
-
         return ans; 
-        
     }
 };
