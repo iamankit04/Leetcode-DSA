@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/iamankit04/Leetcode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/iamankit04/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
 | [1002-find-common-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/iamankit04/Leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
+| [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
 | [1260-shift-2d-grid](https://github.com/iamankit04/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/iamankit04/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0212-word-search-ii/) | Hard |
+| [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0476-number-complement](https://github.com/iamankit04/Leetcode-DSA/tree/main/0476-number-complement/) | Easy |
+| [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iamankit04/Leetcode-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2032-two-out-of-three](https://github.com/iamankit04/Leetcode-DSA/tree/master/2032-two-out-of-three) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
