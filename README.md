@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/iamankit04/Leetcode-DSA/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/iamankit04/Leetcode-DSA/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/iamankit04/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0212-word-search-ii/) | Hard |
