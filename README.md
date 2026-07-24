@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/iamankit04/Leetcode-DSA/tree/main/3149-find-the-minimum-cost-array-permutation/) | Hard |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3248-snake-in-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/3248-snake-in-matrix/) | Easy |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/iamankit04/Leetcode-DSA/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/iamankit04/Leetcode-DSA/tree/main/3149-find-the-minimum-cost-array-permutation/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/iamankit04/Leetcode-DSA/tree/master/2032-two-out-of-three) |
 | [2305-fair-distribution-of-cookies](https://github.com/iamankit04/Leetcode-DSA/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/iamankit04/Leetcode-DSA/tree/main/3149-find-the-minimum-cost-array-permutation/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -654,4 +657,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/iamankit04/Leetcode-DSA/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/iamankit04/Leetcode-DSA/tree/main/3149-find-the-minimum-cost-array-permutation/) | Hard |
 <!---LeetCode Topics End-->
