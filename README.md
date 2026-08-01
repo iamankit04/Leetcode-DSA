@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/iamankit04/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
+| [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/iamankit04/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0396-rotate-function](https://github.com/iamankit04/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1185-day-of-the-week](https://github.com/iamankit04/Leetcode-DSA/tree/master/1185-day-of-the-week) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/iamankit04/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/iamankit04/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/iamankit04/Leetcode-DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/iamankit04/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/main/0486-predict-the-winner/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -682,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/iamankit04/Leetcode-DSA/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/iamankit04/Leetcode-DSA/tree/main/3149-find-the-minimum-cost-array-permutation/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
