@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/iamankit04/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/iamankit04/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamankit04/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
