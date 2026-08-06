@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/iamankit04/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/iamankit04/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
+| [0994-rotting-oranges](https://github.com/iamankit04/Leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1002-find-common-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/iamankit04/Leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
@@ -125,8 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iamankit04/Leetcode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/iamankit04/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/iamankit04/Leetcode-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -169,8 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/iamankit04/Leetcode-DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iamankit04/Leetcode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0044-wildcard-matching](https://github.com/iamankit04/Leetcode-DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
@@ -229,8 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/iamankit04/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/iamankit04/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/iamankit04/Leetcode-DSA/tree/main/0682-baseball-game/) | Easy |
@@ -251,14 +252,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/iamankit04/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/iamankit04/Leetcode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/iamankit04/Leetcode-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0212-word-search-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
+| [0994-rotting-oranges](https://github.com/iamankit04/Leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/iamankit04/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -272,8 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -288,16 +290,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1291-sequential-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/1291-sequential-digits/) | Medium |
 | [1534-count-good-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/1534-count-good-triplets/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/iamankit04/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0061-rotate-list/) | Medium |
@@ -321,8 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/iamankit04/Leetcode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -354,8 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/iamankit04/Leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -374,8 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/iamankit04/Leetcode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/iamankit04/Leetcode-DSA/tree/master/0258-add-digits) |
@@ -409,8 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iamankit04/Leetcode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/iamankit04/Leetcode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0044-wildcard-matching](https://github.com/iamankit04/Leetcode-DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0118-pascals-triangle](https://github.com/iamankit04/Leetcode-DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -433,8 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/iamankit04/Leetcode-DSA/tree/main/3149-find-the-minimum-cost-array-permutation/) | Hard |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0051-n-queens](https://github.com/iamankit04/Leetcode-DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/iamankit04/Leetcode-DSA/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
@@ -445,12 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/iamankit04/Leetcode-DSA/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/iamankit04/Leetcode-DSA/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -461,8 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/iamankit04/Leetcode-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/iamankit04/Leetcode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/iamankit04/Leetcode-DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -481,8 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0476-number-complement](https://github.com/iamankit04/Leetcode-DSA/tree/main/0476-number-complement/) | Easy |
 | [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
@@ -494,8 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/iamankit04/Leetcode-DSA/tree/main/3149-find-the-minimum-cost-array-permutation/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -503,8 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/iamankit04/Leetcode-DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/iamankit04/Leetcode-DSA/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0386-lexicographical-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0386-lexicographical-numbers/) | Medium |
@@ -521,10 +523,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/iamankit04/Leetcode-DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0841-keys-and-rooms](https://github.com/iamankit04/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/iamankit04/Leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/iamankit04/Leetcode-DSA/tree/master/1306-jump-game-iii) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -537,16 +540,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/iamankit04/Leetcode-DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0682-baseball-game](https://github.com/iamankit04/Leetcode-DSA/tree/main/0682-baseball-game/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iamankit04/Leetcode-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -554,24 +557,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/iamankit04/Leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3174-clear-digits/) | Easy |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/iamankit04/Leetcode-DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/0796-rotate-string/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/iamankit04/Leetcode-DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamankit04/Leetcode-DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iamankit04/Leetcode-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/iamankit04/Leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/iamankit04/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -585,36 +588,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0212-word-search-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0386-lexicographical-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0386-lexicographical-numbers/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/iamankit04/Leetcode-DSA/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/iamankit04/Leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -626,8 +629,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/iamankit04/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamankit04/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/iamankit04/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/iamankit04/Leetcode-DSA/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1791-find-center-of-star-graph/) | Easy |
@@ -637,8 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/iamankit04/Leetcode-DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -646,12 +649,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/iamankit04/Leetcode-DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/iamankit04/Leetcode-DSA/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0061-rotate-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0148-sort-list) |
@@ -660,47 +663,47 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0044-wildcard-matching](https://github.com/iamankit04/Leetcode-DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/iamankit04/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/iamankit04/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/iamankit04/Leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bitmask
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/iamankit04/Leetcode-DSA/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/iamankit04/Leetcode-DSA/tree/main/3149-find-the-minimum-cost-array-permutation/) | Hard |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/iamankit04/Leetcode-DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
