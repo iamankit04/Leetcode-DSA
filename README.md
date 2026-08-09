@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/iamankit04/Leetcode-DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/iamankit04/Leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0283-move-zeroes](https://github.com/iamankit04/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamankit04/Leetcode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/iamankit04/Leetcode-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/iamankit04/Leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0212-word-search-ii/) | Hard |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0200-number-of-islands](https://github.com/iamankit04/Leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0841-keys-and-rooms](https://github.com/iamankit04/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/iamankit04/Leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0841-keys-and-rooms](https://github.com/iamankit04/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/iamankit04/Leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/iamankit04/Leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/iamankit04/Leetcode-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
