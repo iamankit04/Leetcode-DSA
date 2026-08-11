@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/iamankit04/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/iamankit04/Leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0841-keys-and-rooms](https://github.com/iamankit04/Leetcode-DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/iamankit04/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/iamankit04/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
