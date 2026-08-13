@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/iamankit04/Leetcode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1002-find-common-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/iamankit04/Leetcode-DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1094-car-pooling](https://github.com/iamankit04/Leetcode-DSA/tree/main/1094-car-pooling/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/iamankit04/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/iamankit04/Leetcode-DSA/tree/main/0682-baseball-game/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iamankit04/Leetcode-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iamankit04/Leetcode-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/iamankit04/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [1019-next-greater-node-in-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamankit04/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
