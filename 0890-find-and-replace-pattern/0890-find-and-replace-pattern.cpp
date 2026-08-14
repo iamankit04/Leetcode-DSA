@@ -33,6 +33,8 @@ public:
 
         for(int i = 0 ; i < n ; i++){
 
+            if(words[i].length() != pattern.length()) continue ; 
+
             vector<int> temp = foundpat(words[i]); 
 
             if(temp == p){
