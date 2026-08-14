@@ -26,6 +26,7 @@ public:
     vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
 
         int n = words.size(); 
+        int k = pattern.length(); 
 
         vector<int> p = foundpat(pattern);  
 
@@ -33,7 +34,7 @@ public:
 
         for(int i = 0 ; i < n ; i++){
 
-            if(words[i].length() != pattern.length()) continue ; 
+            if(words[i].length() != k) continue ; 
 
             vector<int> temp = foundpat(words[i]); 
 
