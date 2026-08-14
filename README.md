@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamankit04/Leetcode-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamankit04/Leetcode-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/iamankit04/Leetcode-DSA/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamankit04/Leetcode-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3146-permutation-difference-between-two-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/iamankit04/Leetcode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamankit04/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamankit04/Leetcode-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamankit04/Leetcode-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
