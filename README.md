@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/iamankit04/Leetcode-DSA/tree/main/0871-minimum-number-of-refueling-stops/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/iamankit04/Leetcode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/iamankit04/Leetcode-DSA/tree/main/0877-stone-game/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/iamankit04/Leetcode-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iamankit04/Leetcode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/iamankit04/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamankit04/Leetcode-DSA/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/iamankit04/Leetcode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/iamankit04/Leetcode-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iamankit04/Leetcode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/iamankit04/Leetcode-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1002-find-common-characters/) | Easy |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/0796-rotate-string/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/iamankit04/Leetcode-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/iamankit04/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
