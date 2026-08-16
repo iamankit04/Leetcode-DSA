@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i">4021. Minimum Operations to Make a Rotated Palindrome I</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i">4350. Minimum Operations to Make a Rotated Palindrome I</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
 
 <p>You can perform the following operations any number of times (including zero) and in any order:</p>
 
