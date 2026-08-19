@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/iamankit04/Leetcode-DSA/tree/master/1306-jump-game-iii) |
 | [1313-decompress-run-length-encoded-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/iamankit04/Leetcode-DSA/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/iamankit04/Leetcode-DSA/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamankit04/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/iamankit04/Leetcode-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/iamankit04/Leetcode-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iamankit04/Leetcode-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/iamankit04/Leetcode-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/iamankit04/Leetcode-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/iamankit04/Leetcode-DSA/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2029-stone-game-ix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2029-stone-game-ix/) | Medium |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/iamankit04/Leetcode-DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/iamankit04/Leetcode-DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2032-two-out-of-three](https://github.com/iamankit04/Leetcode-DSA/tree/master/2032-two-out-of-three) |
 | [2305-fair-distribution-of-cookies](https://github.com/iamankit04/Leetcode-DSA/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/iamankit04/Leetcode-DSA/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
