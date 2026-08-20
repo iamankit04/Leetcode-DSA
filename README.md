@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/iamankit04/Leetcode-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0118-pascals-triangle](https://github.com/iamankit04/Leetcode-DSA/tree/main/0118-pascals-triangle/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/iamankit04/Leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
