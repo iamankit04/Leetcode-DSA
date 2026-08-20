@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/iamankit04/Leetcode-DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/iamankit04/Leetcode-DSA/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/iamankit04/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
@@ -790,4 +791,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/iamankit04/Leetcode-DSA/tree/main/2029-stone-game-ix/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
