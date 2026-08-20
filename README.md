@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iamankit04/Leetcode-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/iamankit04/Leetcode-DSA/tree/main/3149-find-the-minimum-cost-array-permutation/) | Hard |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/iamankit04/Leetcode-DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/iamankit04/Leetcode-DSA/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3174-clear-digits/) | Easy |
 | [3248-snake-in-matrix](https://github.com/iamankit04/Leetcode-DSA/tree/main/3248-snake-in-matrix/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
