@@ -818,4 +818,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0052-n-queens-ii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/iamankit04/Leetcode-DSA/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
