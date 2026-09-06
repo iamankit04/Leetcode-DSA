@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamankit04/Leetcode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/iamankit04/Leetcode-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0264-ugly-number-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/iamankit04/Leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/iamankit04/Leetcode-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/iamankit04/Leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/iamankit04/Leetcode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/iamankit04/Leetcode-DSA/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0396-rotate-function](https://github.com/iamankit04/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/master/0486-predict-the-winner) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/iamankit04/Leetcode-DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/iamankit04/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
+| [0264-ugly-number-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/iamankit04/Leetcode-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/iamankit04/Leetcode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/iamankit04/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
