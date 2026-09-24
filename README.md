@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/iamankit04/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamankit04/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/iamankit04/Leetcode-DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0203-remove-linked-list-elements](https://github.com/iamankit04/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 | Problem Name | Difficulty |
