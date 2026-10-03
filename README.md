@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/iamankit04/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/iamankit04/Leetcode-DSA/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/iamankit04/Leetcode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/iamankit04/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/iamankit04/Leetcode-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -686,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/iamankit04/Leetcode-DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -855,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
