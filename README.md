@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0647-palindromic-substrings](https://github.com/iamankit04/Leetcode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/iamankit04/Leetcode-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/iamankit04/Leetcode-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/iamankit04/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamankit04/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/iamankit04/Leetcode-DSA/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
