@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/iamankit04/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/iamankit04/Leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0212-word-search-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0212-word-search-ii/) | Hard |
+| [0257-binary-tree-paths](https://github.com/iamankit04/Leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0409-longest-palindrome](https://github.com/iamankit04/Leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/iamankit04/Leetcode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/iamankit04/Leetcode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/iamankit04/Leetcode-DSA/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/iamankit04/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0212-word-search-ii/) | Hard |
+| [0257-binary-tree-paths](https://github.com/iamankit04/Leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0980-unique-paths-iii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/iamankit04/Leetcode-DSA/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/iamankit04/Leetcode-DSA/tree/main/2305-fair-distribution-of-cookies/) | Medium |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0257-binary-tree-paths](https://github.com/iamankit04/Leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/iamankit04/Leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0257-binary-tree-paths](https://github.com/iamankit04/Leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0257-binary-tree-paths](https://github.com/iamankit04/Leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
