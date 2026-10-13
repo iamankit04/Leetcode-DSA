@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iamankit04/Leetcode-DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/iamankit04/Leetcode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/iamankit04/Leetcode-DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/iamankit04/Leetcode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/iamankit04/Leetcode-DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Heap (Priority Queue)
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/iamankit04/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/iamankit04/Leetcode-DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/iamankit04/Leetcode-DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
