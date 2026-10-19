@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/iamankit04/Leetcode-DSA/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/iamankit04/Leetcode-DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/iamankit04/Leetcode-DSA/tree/main/0506-relative-ranks/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamankit04/Leetcode-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/iamankit04/Leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/iamankit04/Leetcode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/iamankit04/Leetcode-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/iamankit04/Leetcode-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/iamankit04/Leetcode-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/iamankit04/Leetcode-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Counting
