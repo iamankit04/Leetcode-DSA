@@ -16,7 +16,7 @@ public:
                 st.pop();
             }
            
-            ans[i%n] = st.size() == 0 ? -1 : nums[st.top()];
+            ans[i%n] = st.empty() ? -1 : nums[st.top()];
 
             st.push(i % n);
 
