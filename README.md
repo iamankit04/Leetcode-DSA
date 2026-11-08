@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/iamankit04/Leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/iamankit04/Leetcode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/iamankit04/Leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/iamankit04/Leetcode-DSA/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0463-island-perimeter](https://github.com/iamankit04/Leetcode-DSA/tree/main/0463-island-perimeter/) | Easy |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/iamankit04/Leetcode-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/iamankit04/Leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/iamankit04/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -885,4 +888,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iamankit04/Leetcode-DSA/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
