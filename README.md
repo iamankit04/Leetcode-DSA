@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/iamankit04/Leetcode-DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/iamankit04/Leetcode-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamankit04/Leetcode-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/iamankit04/Leetcode-DSA/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Depth-First Search
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/iamankit04/Leetcode-DSA/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/iamankit04/Leetcode-DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/iamankit04/Leetcode-DSA/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iamankit04/Leetcode-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
